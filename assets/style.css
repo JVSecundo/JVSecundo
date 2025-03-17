@@ -1,0 +1,72 @@
+/* Este arquivo pode ser usado como referência para copiar os estilos inline */
+
+:root {
+  --bg-gradient: linear-gradient(to right, #0d1117, #161b22, #0d1117);
+  --card-bg: linear-gradient(45deg, #1a1a2e, #16213e);
+  --accent-color: #00e6ae;
+  --shadow-color: rgba(31, 38, 135, 0.37);
+  --text-primary: #ffffff;
+  --text-secondary: #a0a0a0;
+}
+
+/* Estilos para cartões de tecnologia */
+.tech-card {
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+  transition: transform 0.3s;
+}
+
+.tech-card:hover {
+  transform: translateY(-5px);
+}
+
+/* Estilos para cards de projetos */
+.project-card {
+  display: flex;
+  align-items: center;
+  background: var(--bg-gradient);
+  padding: 20px;
+  border-radius: 16px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+  transition: transform 0.3s, box-shadow 0.3s;
+  margin-bottom: 15px;
+}
+
+.project-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+}
+
+/* Estilos para ícones de redes sociais */
+.social-icon {
+  width: 70px;
+  height: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  box-shadow: 0 10px 15px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+
+.social-icon:hover {
+  transform: scale(1.1);
+}
+
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.animate-pulse {
+  animation: pulse 2s infinite;
+}
