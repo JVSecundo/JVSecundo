@@ -17,19 +17,47 @@
 
 ## Sobre mim
 
-Sou desenvolvedor full stack em Goiás e fundador da [For6 Solutions](https://for6solutions.com), empresa que cria sites, sistemas web e aplicativos sob medida para negócios de todo o Brasil.
+Sou desenvolvedor full stack em Ceres, Goiás, e fundador da [For6 Solutions](https://for6solutions.com), empresa que cria sites, sistemas web e aplicativos sob medida para negócios de todo o Brasil. Curso Sistemas de Informação no IF Goiano e tenho duas certificações AWS.
 
-- Trabalho do layout ao deploy: front, back, banco de dados, publicação e manutenção.
-- No dia a dia uso Next.js, TypeScript, Supabase e Cloudflare na web, e Flutter nos aplicativos.
-- Gosto de sistema rápido, seguro e fácil de usar por quem não é da área.
+- Cuido do projeto inteiro: conversa com o cliente, layout, front, back, banco de dados, deploy e manutenção.
+- Hoje trabalho principalmente com Next.js, TypeScript, Supabase e Cloudflare na web, e Flutter nos aplicativos.
+- Já liderei equipes presenciais e remotas, conduzindo dailys e atuando como Scrum Master.
+- Também já dei aula: ensinei tecnologia e lógica de programação para crianças em um projeto do IF Goiano com a Prefeitura de Ceres.
+
+## Experiência
+
+**Fundador e desenvolvedor full stack** · [For6 Solutions](https://for6solutions.com) · `nov/2024 até hoje`<br />
+Gestão da empresa e desenvolvimento de sites, sistemas e aplicativos sob encomenda, com hospedagem, suporte e consultoria em TI.
+
+**Desenvolvedor front-end** · Compass UOL · `abr/2025 a set/2025`<br />
+Aplicações em React com Redux e React Router, design system documentado no Storybook e serviços AWS seguindo o Well-Architected Framework.
+
+**Professor de TI nos anos iniciais** · IF Goiano Campus Ceres e Prefeitura de Ceres · `ago/2024 a ago/2025`<br />
+Aulas do 1º ao 5º ano, de hardware e navegação básica até segurança digital e introdução à lógica de programação.
+
+**Machine Learning** · Compass UOL · `nov/2023 a abr/2024`<br />
+Implementação de modelos de machine learning com serviços da AWS.
+
+## Formação e certificações
+
+| Curso | Instituição | Ano |
+| --- | --- | --- |
+| **Sistemas de Informação** | IF Goiano, Campus Ceres | 2026 |
+| **AWS Certified AI Practitioner** | Amazon Web Services | 2025 |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services | 2024 |
+
+Idiomas: português nativo e inglês intermediário.
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,nodejs,supabase,postgres,prisma&perline=8" alt="Next.js, React, TypeScript, Tailwind, Node.js, Supabase, PostgreSQL, Prisma" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=cloudflare,flutter,dart,python,java,docker,linux,git&perline=8" alt="Cloudflare, Flutter, Dart, Python, Java, Docker, Linux, Git" />
-</p>
+| Área | Tecnologias |
+| --- | --- |
+| Front-end | <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,redux,html,css" alt="Next.js, React, TypeScript, JavaScript, Tailwind, Redux, HTML, CSS" height="40" /> |
+| Mobile | <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" alt="Flutter, Dart, Android" height="40" /> |
+| Back-end | <img src="https://skillicons.dev/icons?i=nodejs,python,java,spring" alt="Node.js, Python, Java, Spring Boot" height="40" /> |
+| Banco de dados | <img src="https://skillicons.dev/icons?i=supabase,postgres,prisma,mysql,mongodb,sqlite" alt="Supabase, PostgreSQL, Prisma, MySQL, MongoDB, SQLite" height="40" /> |
+| Cloud e DevOps | <img src="https://skillicons.dev/icons?i=cloudflare,aws,docker,linux,git,github" alt="Cloudflare, AWS, Docker, Linux, Git, GitHub" height="40" /> |
+| Qualidade | <img src="https://skillicons.dev/icons?i=vitest,storybook" alt="Vitest, Storybook" height="40" /> |
 
 ## Projetos no ar
 
@@ -40,6 +68,8 @@ Sou desenvolvedor full stack em Goiás e fundador da [For6 Solutions](https://fo
 | [Colégio Imaculada Conceição](https://colegioimaculadaceres.com.br) | Site da escola com notícias, documentos e equipe editáveis pelo painel da secretaria. | Next.js, Supabase, Cloudflare |
 | [Criança Feliz](https://kidsflow.for6solutions.com) | Inscrição online e check-in por QR Code de evento, com relatórios em PDF, Excel e CSV. | Next.js, Prisma, Supabase |
 | [secundo.dev](https://secundo.dev) | Meu portfólio pessoal. | Next.js, TypeScript, Cloudflare |
+
+Também desenvolvi o sistema do Posto de Vendas do IF Goiano, a automação do setor de Equoterapia (cadastros, agendamentos e documentos de pacientes) e chatbots integrados à AWS.
 
 ## Contribuições
 
