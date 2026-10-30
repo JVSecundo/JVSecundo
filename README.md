@@ -21,7 +21,7 @@ Curso Sistemas de Informação no IF Goiano, já liderei equipes como Scrum Mast
 
 <br />
 
-<img src="./assets/cards/numeros.svg" alt="6 projetos no ar, 2 certificações AWS, atuando desde 2023, fundador da For6 Solutions" width="100%" />
+<img src="./assets/cards/numeros.svg" alt="96+ projetos no ar, 2 certificações AWS, atuando desde 2021, fundador da For6 Solutions" width="100%" />
 
 ## Experiência
 
