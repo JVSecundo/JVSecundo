@@ -20,7 +20,7 @@ Crio sites, sistemas web e aplicativos sob medida, da conversa com o cliente ao 
 Curso Sistemas de Informação no IF Goiano, já liderei equipes como Scrum Master e dei aula de tecnologia para crianças.
 
 <br />
-
+ 
 <img src="./assets/cards/numeros.svg" alt="96+ projetos no ar, 2 certificações AWS, atuando desde 2021, fundador da For6 Solutions" width="100%" />
 
 ## Experiência
