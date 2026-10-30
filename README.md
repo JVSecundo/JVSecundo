@@ -6,12 +6,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=00C896&center=true&vCenter=true&width=520&lines=Desenvolvedor+Full+Stack;Sites%2C+sistemas+e+aplicativos+sob+medida;Fundador+da+For6+Solutions" alt="Desenvolvedor Full Stack, fundador da For6 Solutions" />
 
-[![Portfólio](https://img.shields.io/badge/secundo.dev-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://secundo.dev)
-[![For6 Solutions](https://img.shields.io/badge/For6_Solutions-161B22?style=for-the-badge&logo=cloudflare&logoColor=F38020)](https://for6solutions.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-secundo-santos-515633237)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaovictorsecundo)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5533998497355)
-[![E-mail](https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovictorsecundo402@gmail.com)
+[![Portfólio](./assets/badges/portfolio.svg)](https://secundo.dev)
+[![For6 Solutions](./assets/badges/for6.svg)](https://for6solutions.com)
+[![LinkedIn](./assets/badges/linkedin.svg)](https://www.linkedin.com/in/jo%C3%A3o-victor-secundo-santos-515633237)
+[![Instagram](./assets/badges/instagram.svg)](https://www.instagram.com/joaovictorsecundo)
+[![WhatsApp](./assets/badges/whatsapp.svg)](https://wa.me/5533998497355)
+[![E-mail](./assets/badges/email.svg)](mailto:joaovictorsecundo402@gmail.com)
 
 </div>
 
