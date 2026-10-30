@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="120" viewBox="0 0 840 120" role="img" aria-label="6 projetos no ar, 2 certificações AWS, atuando desde 2023, fundador da For6 Solutions"><style>
+.bg{fill:url(#bgl);stroke:#d8dee4}.t{fill:#1f2328}.m{fill:#59636e}.a{fill:#008f6b}
+.pill{fill:#e3f6ef}.pt{fill:#00694f}.ln{stroke:#d8dee4}.tile{fill:#f6f8fa;stroke:#d8dee4}
+.s1{stop-color:#ffffff}.s2{stop-color:#f3faf7}
+@media (prefers-color-scheme:dark){.bg{fill:url(#bgl);stroke:#2a3340}.t{fill:#e6edf3}.m{fill:#9198a1}
+.a{fill:#00c896}.pill{fill:#0e2a22}.pt{fill:#3ddcb0}.ln{stroke:#2a3340}.tile{fill:#151b23;stroke:#2a3340}
+.s1{stop-color:#0d1117}.s2{stop-color:#0f1d19}}
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+</style><defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c896"/><stop offset="1" stop-color="#f5b83d"/></linearGradient>
+<linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="s1"/><stop offset="1" class="s2"/></linearGradient>
+<clipPath id="card"><rect x="0" y="0" width="840" height="120" rx="20"/></clipPath>
+</defs><rect class="bg" x="0.5" y="0.5" width="839" height="119" rx="20" stroke-width="1"/><rect x="0" y="0" width="840" height="5" fill="url(#acc)" clip-path="url(#card)"/><text x="105.0" y="66.0" fill="url(#acc)" font-size="34" font-weight="700" text-anchor="middle">6</text><text x="105.0" y="92.0" class="m" font-size="14" font-weight="400" text-anchor="middle">projetos no ar</text><text x="315.0" y="66.0" fill="url(#acc)" font-size="34" font-weight="700" text-anchor="middle">2</text><text x="315.0" y="92.0" class="m" font-size="14" font-weight="400" text-anchor="middle">certificações AWS</text><line class="ln" x1="210" y1="34" x2="210" y2="96" stroke-width="1"/><text x="525.0" y="66.0" fill="url(#acc)" font-size="34" font-weight="700" text-anchor="middle">2023</text><text x="525.0" y="92.0" class="m" font-size="14" font-weight="400" text-anchor="middle">início na área</text><line class="ln" x1="420" y1="34" x2="420" y2="96" stroke-width="1"/><text x="735.0" y="66.0" fill="url(#acc)" font-size="34" font-weight="700" text-anchor="middle">For6</text><text x="735.0" y="92.0" class="m" font-size="14" font-weight="400" text-anchor="middle">empresa própria</text><line class="ln" x1="630" y1="34" x2="630" y2="96" stroke-width="1"/></svg>

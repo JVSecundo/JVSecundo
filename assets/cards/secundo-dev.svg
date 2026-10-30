@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="412" height="236" viewBox="0 0 412 236" role="img" aria-label="secundo.dev: Meu portfólio pessoal, com projetos, experiência e contato."><style>
+.bg{fill:url(#bgl);stroke:#d8dee4}.t{fill:#1f2328}.m{fill:#59636e}.a{fill:#008f6b}
+.pill{fill:#e3f6ef}.pt{fill:#00694f}.ln{stroke:#d8dee4}.tile{fill:#f6f8fa;stroke:#d8dee4}
+.s1{stop-color:#ffffff}.s2{stop-color:#f3faf7}
+@media (prefers-color-scheme:dark){.bg{fill:url(#bgl);stroke:#2a3340}.t{fill:#e6edf3}.m{fill:#9198a1}
+.a{fill:#00c896}.pill{fill:#0e2a22}.pt{fill:#3ddcb0}.ln{stroke:#2a3340}.tile{fill:#151b23;stroke:#2a3340}
+.s1{stop-color:#0d1117}.s2{stop-color:#0f1d19}}
+text{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Helvetica,Arial,sans-serif}
+</style><defs>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#00c896"/><stop offset="1" stop-color="#f5b83d"/></linearGradient>
+<linearGradient id="bgl" x1="0" y1="0" x2="1" y2="1"><stop offset="0" class="s1"/><stop offset="1" class="s2"/></linearGradient>
+<clipPath id="card"><rect x="0" y="0" width="412" height="236" rx="20"/></clipPath>
+</defs><rect class="bg" x="0.5" y="0.5" width="411" height="235" rx="20" stroke-width="1"/><rect x="0" y="0" width="412" height="5" fill="url(#acc)" clip-path="url(#card)"/><rect x="24" y="28" width="48" height="48" rx="14" fill="url(#acc)"/><text x="48.0" y="61.0" fill="#0d1117" font-size="24" font-weight="700" text-anchor="middle">S</text><text x="88.0" y="48.0" class="t" font-size="17" font-weight="600" text-anchor="start">secundo.dev</text><text x="88.0" y="70.0" class="a" font-size="13" font-weight="600" text-anchor="start">secundo.dev</text><text x="24.0" y="112.0" class="m" font-size="14" font-weight="400" text-anchor="start">Meu portfólio pessoal, com projetos, experiência</text><text x="24.0" y="133.0" class="m" font-size="14" font-weight="400" text-anchor="start">e contato.</text><rect class="pill" x="67.8" y="188" width="72" height="24" rx="12"/><text x="104.0" y="204.5" class="pt" font-size="12" font-weight="600" text-anchor="middle">Next.js</text><rect class="pill" x="148.2" y="188" width="94" height="24" rx="12"/><text x="195.2" y="204.5" class="pt" font-size="12" font-weight="600" text-anchor="middle">TypeScript</text><rect class="pill" x="250.2" y="188" width="94" height="24" rx="12"/><text x="297.2" y="204.5" class="pt" font-size="12" font-weight="600" text-anchor="middle">Cloudflare</text></svg>
